@@ -1,0 +1,5 @@
+Sorted list of files:
+1. (found = 3) [inputFile1.txt]
+2. (found = 1) [inputFile4.txt]
+3. (found = 1) [inputFile3.txt]
+4. (found = 0) [inputFile2.txt]
